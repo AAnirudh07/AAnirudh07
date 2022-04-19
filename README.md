@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying B.E. Computer Science and Mathematics at Sri Sivasubramaniya Nadar College of Engineering.\
+🎓 &nbsp;I'm currently studying B.E. Computer Science and Engineering at Sri Sivasubramaniya Nadar College of Engineering.\
 🌱 &nbsp;I'm currently learning about Simultaneous localization and mapping (SLAM), Computer Vision, Deep Learning and Systems Design.\
 ✉️ &nbsp;You can shoot me an email at anirudh19015@cse.ssn.edu.in!
 
