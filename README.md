@@ -37,9 +37,11 @@
   </p>
 
 ### 📊 &nbsp;GitHub Stats
-
+<p align="center">
+<img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=AAnirudh07&theme=tokyonight"/>
+</p>
 <p align="center">
 <a href="https://github.com/AAnirudh07">
-  <img height="300em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AAnirudh07&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="400em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AAnirudh07&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
