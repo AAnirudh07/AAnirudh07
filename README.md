@@ -4,7 +4,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying B.E. Computer Science and Engineering at Sri Sivasubramaniya Nadar College of Engineering.\
 ✉️ &nbsp;You can shoot me an email at anirudh19015@cse.ssn.edu.in!
 
 
