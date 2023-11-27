@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there! I'm Anirudh
 </h1>
 
-### 👨🏻‍💻 &nbsp;About Me
-
-✉️ &nbsp;You can shoot me an email at anirudh19015@cse.ssn.edu.in!
-
 
 ### 📊 &nbsp;GitHub Stats
 <p align="center">
